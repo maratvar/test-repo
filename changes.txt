@@ -4,3 +4,4 @@ text 3
 text 4
 text 5
 text 6 // new line
+text 7 // added in github
