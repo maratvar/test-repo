@@ -3,5 +3,5 @@ text 2 // some changes
 text 3
 text 4
 text 5
-text 6 // new line
-text 7 // added in github
+text 6
+text 7
