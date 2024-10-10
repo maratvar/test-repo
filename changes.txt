@@ -1,6 +1,6 @@
 text 1 // added in github
 text 2 // dev task 1
-text 3 // remote version: test rebase functionality
+text 3 // local version: test rebase functionality
 text 4
 text 5
 text 6
